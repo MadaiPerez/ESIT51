@@ -9,7 +9,7 @@ Para poder ejecutar la aplicación en tu dispositivo, sigue estos pasos:
 1.  **Clonar el Repositorio:**
     Primero, necesitas clonar este repositorio en tu computadora utilizando Git. Abre tu terminal o línea de comandos y ejecuta el siguiente comando:
 
-      ```bash
+    ```bash
    git clone https://github.com/MadaiPerez/ESIT51.git
     ```
 
